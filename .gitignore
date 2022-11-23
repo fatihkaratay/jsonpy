@@ -1,0 +1,16 @@
+
+*.pyc
+.cache
+
+.testmondata
+
+build/
+_build/
+deb_dist/
+dist/
+*.tar.gz
+*egg-info
+MANIFEST
+*.xml
+*.iml
+.gitignore
