@@ -10,3 +10,7 @@ dist/
 *.tar.gz
 *egg-info
 MANIFEST
+
+*.xml
+*.iml
+.gitignore
